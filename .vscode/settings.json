@@ -1,0 +1,9 @@
+{
+    "rioteeSdkRoot": "C:/PATH/TO/SDK",
+    "operSys": "Win32",
+    "gnuInstallRoot": "",
+    "files.associations": {
+        "type_traits": "c",
+    },
+    "editor.formatOnSave": true,
+}
