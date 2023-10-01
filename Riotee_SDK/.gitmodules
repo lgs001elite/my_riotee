@@ -1,0 +1,12 @@
+[submodule "CMSIS_5"]
+	path = external/CMSIS_5
+	url = https://github.com/ARM-software/CMSIS_5.git
+[submodule "freertos"]
+	path = external/freertos
+	url = https://github.com/FreeRTOS/FreeRTOS-Kernel
+[submodule "nrfx"]
+	path = external/nrfx
+	url = https://github.com/NordicSemiconductor/nrfx
+[submodule "external/ArduinoCore-API"]
+	path = external/ArduinoCore-API
+	url = https://github.com/arduino/ArduinoCore-API
